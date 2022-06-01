@@ -12,7 +12,7 @@ Je suis aussi connu sous le nom de: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress,)](https://skillicons.dev)<br>
   
-<img height="40px" style="background:#000000;border-radius:10px" src="https://apksshare.com/wp-content/uploads/2021/06/Scratch-APK-MOD-Download-3.0.57-minSdk23.png">
+<img height="40px" style="border-radius:10px" src="https://apksshare.com/wp-content/uploads/2021/06/Scratch-APK-MOD-Download-3.0.57-minSdk23.png">
   
 </html>
 
