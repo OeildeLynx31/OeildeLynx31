@@ -1,29 +1,14 @@
-<html>
-  <head><!--
-    <style>
-      img{
-      border-radius: 10px
-      }
-    </style>-->
-  </head>
-<body>
-<h1>Salut !</h1>
+<html> 
+  <head> 
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script> 
+    $(function(){
+      $("#inclusion").load("https://github.com/OeildeLynx31/OeildeLynx31/blob/main/Bienvenue.html"); 
+    });
+    </script> 
+  </head> 
 
-Moi c'est Oeil-de-Lynx !
-Je suis aussi connu sous le nom de: <br>
-@scratch-hv sur scratch <br>
-@Oeuil2Lynx sur fandom <br>
-@OeildeLynx31 sur Github.<br>
-
-<h3>Mes connaissances:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress,)](https://skillicons.dev)<br>
-  
-<img height="48px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true">
-<img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/mblocklogo.png">
-  
-  
-  </body>
+  <body> 
+     <div id="inclusion"></div>
+  </body> 
 </html>
-
-
