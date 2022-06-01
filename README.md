@@ -7,6 +7,6 @@ Je suis aussi connu sous le nom de: <br>
 @OeildeLynx31 sur Github.<br>
 
 <h3>Mes connaissances:</h3>
-<!--
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,arduino)](https://skillicons.dev)
--->
+
