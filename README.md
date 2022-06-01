@@ -10,6 +10,6 @@ Je suis aussi connu sous le nom de: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress,)](https://skillicons.dev)
 
-<img style="border-radius:10px;height:40px;background-color:#000000;border: solid #000000" src="http://u.cubeupload.com/csf30816/5aVuDN.png">
+<img style="border-radius:10px;height:40px;background-color:#000000;border: solid #000000 1px" src="http://u.cubeupload.com/csf30816/5aVuDN.png">
 
 
