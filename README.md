@@ -19,7 +19,7 @@ Je suis aussi connu sous le nom de: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress,)](https://skillicons.dev)<br>
   
-<img height="45px" alt="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true">
+<img height="45px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true">
   
   </body>
 </html>
