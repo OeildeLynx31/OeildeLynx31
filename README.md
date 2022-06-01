@@ -8,5 +8,5 @@ Je suis aussi connu sous le nom de: <br>
 
 <h3>Mes connaissances:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress,)](https://skillicons.dev)
 
