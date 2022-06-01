@@ -1,5 +1,5 @@
 <html>
-<head>
+<body>
 <h1>Salut !</h1>
 
 Moi c'est Oeil-de-Lynx !
@@ -14,7 +14,7 @@ Je suis aussi connu sous le nom de: <br>
   
 <img height="40px" style="border-radius:10px" src="https://apksshare.com/wp-content/uploads/2021/06/Scratch-APK-MOD-Download-3.0.57-minSdk23.png">
   
-  </head>
+  </body>
 </html>
 
 
