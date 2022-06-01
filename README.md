@@ -1,10 +1,10 @@
 <html>
-  <head>
+  <head><!--
     <style>
       img{
       border-radius: 10px
       }
-    </style>
+    </style>-->
   </head>
 <body>
 <h1>Salut !</h1>
@@ -19,7 +19,7 @@ Je suis aussi connu sous le nom de: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress,)](https://skillicons.dev)<br>
   
-<img height="50px" src="https://apksshare.com/wp-content/uploads/2021/06/Scratch-APK-MOD-Download-3.0.57-minSdk23.png">
+<img height="45px" src="https://apksshare.com/wp-content/uploads/2021/06/Scratch-APK-MOD-Download-3.0.57-minSdk23.png">
   
   </body>
 </html>
