@@ -20,11 +20,10 @@ Je suis aussi connu sous le nom de: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,arduino,github,linux,raspberrypi,wordpress&perline=6)](https://skillicons.dev)
 <img height="48px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true">
 <img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/mblocklogo.png">
-  <ul>
-    <li>[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)</li>
-    <li>Oranges</li>
-    <li>Bananas</li>
-</ul>
+  <hr>
+  [![My Skills](https://skillicons.dev/icons?i=html,css)]() Je code régulièrement en HTML-CSS, comme cette page <br>
+  
+
   
   
   </body>
