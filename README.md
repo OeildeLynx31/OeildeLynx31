@@ -29,9 +29,9 @@ Je suis aussi connu sous le nom de: <br>
   
    [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev) Je possède un site Wordpress (oeildelynx.top7box.com/wordpress).
 
-  <img height="48px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true"> Je fais du Scratch (retrouvez-moi sur mon compte @scratch-hv
+  <img height="48px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true"> Je fais du Scratch (retrouvez-moi sur mon compte @scratch-hv)
  <br><br>
-<img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/Mblock.png?raw=true">
+<img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/Mblock.png?raw=true"> J'utilise parfois Mblock pour coder en C++ pour l'arduino (même si c'est de la triche).
   
 
   
