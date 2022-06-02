@@ -33,7 +33,10 @@ Je suis aussi connu sous le nom de: <br>
  <br><br>
 <img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/Mblock.png?raw=true"> J'utilise parfois Mblock pour coder en C++ pour l'arduino (même si c'est de la triche).
   
-  <img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/webtoon.png"> Je lis des mangas sur Webtoon (J'adore Jungle juice, ou aussi unOrdinary)
+  <img height="48px" title="Webtoon" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/webtoon.png"> Je lis des mangas sur Webtoon (J'adore Jungle juice, ou aussi unOrdinary)
+  
+  <img height="48px" title="Fandom" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/fandom.png"> J'ai un compte sur Fandom c'est @Oeuil2Lynx (oui je sais c'est très mal écrit, c'est juste que j'étais petit lorsque je l'ai créé)
+  
   
   
 
