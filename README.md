@@ -37,7 +37,7 @@ Je suis aussi connu sous le nom de: <br>
   
   <img height="48px" title="Fandom" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/fandom.png"> J'ai un compte sur Fandom c'est @Oeuil2Lynx (oui je sais c'est très mal écrit, c'est juste que j'étais petit lorsque je l'ai créé)
   
-  <img height="48px" title="Fandom" src="https://avatars.githubusercontent.com/u/103884358?s=64&v=4"> Je participe au dévellopement de ScratchTutorials.
+  <img height="48px" title="Fandom" src="[https://avatars.githubusercontent.com/u/103884358?s=64&v=4](https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratchtutorals.png)"> Je participe activement au dévellopement de ScratchTutorials sur Github.
   
   
   
