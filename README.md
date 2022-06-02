@@ -16,6 +16,7 @@ Je suis aussi connu sous le nom de: <br>
 @OeildeLynx31 sur Github.<br>
 
 <h3>Mes connaissances:</h3>
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) Je code régulièrement en HTML-CSS, comme cette page. <br>
   
   [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) J'ai pratiqué deux ans de l'arduino (l' Arduino Uno).
@@ -29,7 +30,7 @@ Je suis aussi connu sous le nom de: <br>
    [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev) Je possède un site Wordpress (oeildelynx.top7box.com/wordpress).
 
   <img height="48px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true"> Je fais du Scratch (retrouvez-moi sur mon compte @scratch-hv
- <br>
+ <br><br>
 <img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/mblocklogo.png">
   
 
