@@ -22,7 +22,7 @@ Je suis aussi connu sous le nom de: <br>
   
   [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) J'ai pratiqué deux ans de l'arduino (l' Arduino Uno).
   
-  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) J'ai un compte sous github (@OeildeLynx31) depuis 1 an environ.
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) J'ai un compte sous github (@OeildeLynx31) depuis 3 ans environ.
   
   [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) Mon ordi est sur Linux (Linux Mint, je conseille) depuis toujours.
   
