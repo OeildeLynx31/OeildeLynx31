@@ -11,34 +11,26 @@
 
 My name is OeildeLynx, which means litteraly "Lynx's eye".
 
-My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) Je code régulièrement en HTML-CSS, comme cette page. <br>
-  
-  [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) J'ai pratiqué deux ans de l'arduino (l' Arduino Uno).
-  
-  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) J'ai un compte sous github (@OeildeLynx31) depuis 3 ans environ.
-  
-  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) Mon ordi est sur Linux (Linux Mint, je conseille) depuis toujours.
-  
-  [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev) J'ai un raspberrypi chez moi mais je l'utilise pas souvent.
-  
-   [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev) Je possède un site Wordpress (oeildelynx.top7box.com/wordpress).
+About me:
 
-  <img height="48px" title="Scratch" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratch.png?raw=true"> Je fais du Scratch (retrouvez-moi sur mon compte @scratch-hv)
- <br><br>
-<img height="48px" title="Mblock" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/Mblock.png?raw=true"> J'utilise parfois Mblock pour coder en C++ pour l'arduino (même si c'est de la triche).
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,bash)](https://skillicons.dev)
   
-  <img height="48px" title="Webtoon" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/webtoon.png"> Je lis des mangas sur Webtoon (J'adore Jungle juice, ou aussi unOrdinary)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
   
-  <img height="48px" title="Fandom" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/fandom.png"> J'ai un compte sur Fandom c'est @Oeuil2Lynx (oui je sais c'est très mal écrit, c'est juste que j'étais petit lorsque je l'ai créé)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
   
-  <img height="48px" title="Fandom" src="https://github.com/OeildeLynx31/OeildeLynx31/blob/main/scratchtutorals.png"> Je participe activement au dévellopement de ScratchTutorials sur Github.
+[![My Skills](https://skillicons.dev/icons?i=linux,mint,ubuntu)](https://skillicons.dev)
   
+[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium)](https://skillicons.dev)
   
-  
+[![My Skills](https://skillicons.dev/icons?i=wordpress,supabase)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=discord,stackoverflow)](https://skillicons.dev)
 
   
-  
+
   </body>
 </html>
 
