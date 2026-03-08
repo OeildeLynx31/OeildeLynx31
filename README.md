@@ -7,18 +7,12 @@
     </style>-->
   </head>
 <body>
-<h1>Salut !</h1>
+<h1>Hey !</h1>
 
-Moi c'est Oeil-de-Lynx !
-Je suis aussi connu sous le nom de: <br>
-@scratch-hv sur scratch <br>
-@Oeuil2Lynx sur fandom <br>
-@OeildeLynx31 sur Github.<br>
-@Oeil-de-Lynx sur Adacraft<br>
+My name is OeildeLynx, which means litteraly "Lynx's eye".
 
-<h3>Mes connaissances:</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) Je code régulièrement en HTML-CSS, comme cette page. <br>
+My skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) Je code régulièrement en HTML-CSS, comme cette page. <br>
   
   [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) J'ai pratiqué deux ans de l'arduino (l' Arduino Uno).
   
